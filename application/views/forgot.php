@@ -37,6 +37,6 @@ load_view("Template/navbar.php");
     </div>
   </main>
 <?php
-load_view("Template/footer.php",$inp);
+load_view("Template/footernew.php",$inp);
 load_view("Template/bottom.php",$inp);
 ?>
