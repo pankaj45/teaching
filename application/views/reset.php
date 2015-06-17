@@ -12,6 +12,7 @@ load_view("Template/navbar.php");
             <h4 class="teal-text text-darken-1 center" style="font-weight:bold; font-variant: small-caps;">RESET PASSWORD</h4>
           </div>
         </div>
+        
         <div class="row center">
           <form class="col s12 m12  l12 " method="post">
             <div class="row">
